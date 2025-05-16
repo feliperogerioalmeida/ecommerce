@@ -118,13 +118,13 @@ Abra http://localhost:3000 no seu navegador.
 - Menu Lateral
 <p align="center">
  
-  <img src="./public/examples/sidebar.png" alt="sidebar" width="600"/>
+  <img src="./public/examples/sideBar.png" alt="sidebar" width="600"/>
 </p>
 
 - Menu Lateral Autenticado
 <p align="center">
  
-  <img src="./public/examples/sidebar-loggedin.png" alt="Sidebar authenticated" width="600"/>
+  <img src="./public/examples/sidebar-loggedIn.png" alt="Sidebar authenticated" width="600"/>
 </p>
 
 - Meus Pedidos
@@ -137,7 +137,7 @@ Abra http://localhost:3000 no seu navegador.
 - Favoritos
 <p align="center">
  
-  <img src="./public/examples/wishlist.png" alt="Wishlist" width="600"/>
+  <img src="./public/examples/wishList.png" alt="Wishlist" width="600"/>
 </p>
 
 - Produto
