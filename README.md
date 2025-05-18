@@ -1,5 +1,7 @@
 # 🛒 Store Nexus
 
+🔗 **Demo (Deploy):** https://ecommerce-tau-ecru.vercel.app
+
 > Uma aplicação full-stack de comércio eletrônico, desenvolvida com Next.js e tecnologias modernas, para vender produtos online com segurança e escalabilidade.
 
 ---
